@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/ninja650.jpg
+image: images/ninja650.jpg
 title: Motorcycling
 permalink: projects/motorcycling
 # All dates must be YYYY-MM-DD format!
