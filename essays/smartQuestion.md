@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Smart Question Essay
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-16
