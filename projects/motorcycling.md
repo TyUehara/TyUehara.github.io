@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://github.com/TyUehara/tyuehara.github.io/blob/master/images/stocks.jpg"
+image: /images/ninja650.jpg
 title: Motorcycling
 permalink: projects/motorcycling
 # All dates must be YYYY-MM-DD format!
