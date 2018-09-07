@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: ture
 title: Why Computer Science?
 # All dates must be YYYY-MM-DD format!
 date: 2016-08-23
