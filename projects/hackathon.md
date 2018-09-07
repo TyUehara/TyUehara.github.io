@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://tyuehara.github.io/images/hackathon.jpg"
+image: images/hackathon.jpg
 title: Hackathon
 permalink: projects/hackathon
 # All dates must be YYYY-MM-DD format!
