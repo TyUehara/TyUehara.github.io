@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Why Computer Science?
 # All dates must be YYYY-MM-DD format!
-date:2016-08-23
+date: 2016-08-23
 labels:
   - Personal Goals
   -Intial Thoughts
