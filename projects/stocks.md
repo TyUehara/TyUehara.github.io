@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/stocks.jpg
+image: images/stocks.jpg
 title: Stocks
 permalink: projects/stocks
 # All dates must be YYYY-MM-DD format!
