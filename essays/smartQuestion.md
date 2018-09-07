@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Smart Question Essay
 # All dates must be YYYY-MM-DD format!
-date:2018-9-6
+date:2018-09-16
 labels:
   - Javascript
   -Intial Thoughts
